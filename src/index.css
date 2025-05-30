@@ -1,3 +1,260 @@
 body,html {
   margin: 0;
 }
+
+.w-100 {
+  width: 100% !important;
+}
+
+.h-100 {
+  height: 100vh !important;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-fs {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.justify-content-fe {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.justify-content-c {
+  display: flex;
+  justify-content: center;
+}
+
+.justify-content-sb {
+  display: flex;
+  justify-content: space-between;
+}
+
+.justify-content-sa {
+  display: flex;
+  justify-content: space-around;
+}
+
+.justify-content-se {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.justify-content-s {
+  display: flex;
+  justify-content: start;
+}
+
+.justify-content-e {
+  display: flex;
+  justify-content: end;
+}
+
+.justify-content-l {
+  display: flex;
+  justify-content: left;
+}
+
+.justify-content-r {
+  display: flex;
+  justify-content: right;
+}
+
+.align-items-fs {
+  display: flex;
+  align-items: flex-start;
+}
+
+.align-items-fe {
+  display: flex;
+  align-items: flex-end;
+}
+
+.align-items-c {
+  display: flex;
+  align-items: center;
+}
+
+.align-items-stretch {
+  display: flex;
+  align-items: stretch;
+}
+
+.align-items-b {
+  display: flex;
+  align-items: baseline;
+}
+
+.align-items-fb {
+  display: flex;
+  align-items: first baseline;
+}
+
+.align-items-lb {
+  display: flex;
+  align-items: last baseline;
+}
+
+.align-items-s {
+  display: flex;
+  align-items: start;
+}
+
+.align-items-e {
+  display: flex;
+  align-items: end;
+}
+
+.align-items-ss {
+  display: flex;
+  align-items: self-start;
+}
+
+.align-items-se {
+  display: flex;
+  align-items: self-end;
+}
+
+.align-content-fs {
+  display: flex;
+  align-content: flex-start;
+}
+
+.align-content-fe {
+  display: flex;
+  align-content: flex-end;
+}
+
+.align-content-c {
+  display: flex;
+  align-content: center;
+}
+
+.align-content-sb {
+  display: flex;
+  align-content: space-between;
+}
+
+.align-content-sa {
+  display: flex;
+  align-content: space-around;
+}
+
+.align-content-se {
+  display: flex;
+  align-content: space-evenly;
+}
+
+.align-content-stretch {
+  display: flex;
+  align-content: stretch;
+}
+
+.align-content-b {
+  display: flex;
+  align-content: baseline;
+}
+
+.align-content-fb {
+  display: flex;
+  align-content: first baseline;
+}
+
+.align-content-lb {
+  display: flex;
+  align-content: last baseline;
+}
+
+.align-content-s {
+  display: flex;
+  align-content: start;
+}
+
+.align-content-e {
+  display: flex;
+  align-content: end;
+}
+
+.gap-1 {
+ gap: 10px;
+}
+
+.gap-2 {
+ gap: 20px;
+}
+
+.gap-3 {
+ gap: 30px;
+}
+
+.gap-4 {
+ gap: 40px;
+}
+
+.m-1 {
+  margin: 10px;
+}
+
+.m-2 {
+  margin: 20px;
+}
+
+.m-3 {
+  margin: 30px;
+}
+
+.m-4 {
+  margin: 40px;
+}
+
+.mt-1 {
+  margin-top: 10px;
+}
+
+.mt-2 {
+  margin-top: 20px;
+}
+
+.mt-3 {
+  margin-top: 30px;
+}
+
+.mt-4 {
+  margin-top: 40px;
+}
+
+.mb-1 {
+  margin-bottom: 10px;
+}
+
+.mb-2 {
+  margin-bottom: 20px;
+}
+
+.mb-3 {
+  margin-bottom: 30px;
+}
+
+.mb-4 {
+  margin-bottom: 40px;
+}
+
+.p-1 {
+  padding: 10px;
+}
+
+.p-2 {
+  padding: 20px;
+}
+
+.p-3 {
+  padding: 30px;
+}
+
+.p-4 {
+  padding: 40px;
+}
