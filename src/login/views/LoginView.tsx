@@ -60,7 +60,7 @@ export default function LoginView() {
             <InputText
               invalid={invalidUser}
               label="Usuario"
-              placeholder={"Ingrese su usuario"}
+              placeholder="Ingrese su usuario"
               errorText={errorTextUser}
               typeInput="Text"
               onChange={ (event) => validateUser(event.target.value) }
@@ -69,7 +69,7 @@ export default function LoginView() {
             <InputText
               invalid={invalidPassword}
               label="Contraseña"
-              placeholder={"Ingrese su contraseña"}
+              placeholder="Ingrese su contraseña"
               errorText="Campo requerido"
               typeInput="Password"
               onChange={ (event) => validatePassword(event.target.value) }
